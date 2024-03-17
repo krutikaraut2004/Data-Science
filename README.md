@@ -60,3 +60,14 @@ The sentiment analysis of movie reviews involves the examination of textual cont
 - Feature Extraction and Engineering
 - Model Training
 - Evaluation and Visualization
+
+## 7) Cusomer Segmentation 
+
+### Overview: 
+Customer segmentation is a crucial process for businesses aiming to understand their diverse customer base and tailor their marketing strategies accordingly. 
+
+### Key Components:
+- Data Collection
+- Feature Selection and preprocessing
+- Segmentation Algorithm Selction (K-Means)
+- Evaluation and Implementation
