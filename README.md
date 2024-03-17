@@ -51,7 +51,7 @@ Logistic regression employed for both binary and multi-class classification obje
 - Model training and evaluation for binary and multi-class scenarios.
 - Interpretation and analysis of model results.
 
-## 5) Sentiment Analysis of Movie Reviews
+## 6) Sentiment Analysis of Movie Reviews
 
 The sentiment analysis of movie reviews involves the examination of textual content to categorize opinions as positive, negative, or neutral. By applying machine learning and natural language processing techniques, the goal is to understand audience sentiment towards a particular movie.
 
