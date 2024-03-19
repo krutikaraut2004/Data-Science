@@ -69,5 +69,5 @@ Customer segmentation is a crucial process for businesses aiming to understand t
 ### Key Components:
 - Data Collection
 - Feature Selection and preprocessing
-- Segmentation Algorithm Selction (K-Means)
+- Segmentation Algorithm Selection (K-Means)
 - Evaluation and Implementation
